@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Profile</title>
+    <title>Robert Kalnins - Profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
+        <h1>Robert Kalnins</h1>
         <p>Welcome to my personal profile page</p>
     </header>
 
@@ -65,34 +65,147 @@
         <section id="about">
             <h2>About Me</h2>
             <p>
-                Hello! My name is [Your Name], and I am a [Your Profession/Title]. I have a passion for [Your Interests], and I enjoy working on [Your Skills or Projects]. This page is a brief introduction to who I am and what I do.
-            </p>
-        </section>
+                Hi! My name is Robert Kalnins, and I am an End-User Computing Technician.
+                I have a passion for streaming, and I enjoy working on a smorgasbord of various tech related subjects.
+                
+                This page is a brief introduction to who I am and what I do.
+                
+                I've been in IT for 4 years now, and in my time I've done the following:
+                - Worked as an MSP log and flog grunt at a big name org
+                - Spent another year working at a white glove MSP - learning from amazing mentors and drinking from the firehose.
+                - Coming up on two years at a corpo job doing end user computing for retail
 
-        <section id="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>Skill 1</li>
-                <li>Skill 2</li>
-                <li>Skill 3</li>
-                <!-- Add more skills as needed -->
-            </ul>
+                Don't read a me by my cover though - peep the passions/projects:
+            </p>
         </section>
 
         <section id="projects" class="projects">
             <h2>Personal Projects</h2>
             <p>Here are some of the projects I've worked on:</p>
             <ul>
-                <li><a href="#">Project 1</a> - Description of project 1.</li>
-                <li><a href="#">Project 2</a> - Description of project 2.</li>
-                <li><a href="#">Project 3</a> - Description of project 3.</li>
-                <!-- Add more projects as needed -->
+                <li>
+                    <strong>Spun up a homelab</strong> - 
+                    > Vmware ESX, later migrated to XCP-NG/XoA stack, migrated 10 out of 11 VM's successfully  
+                    > (Couldn't make OpenBSD work Xen, did a new install on an old ThinkPad instead)  
+                    > Active Directory stack for playing with domain controllers, pki/certs, IIS, group policy, etc  
+                </li>
+                <li>
+                    <strong>Ran a Project Zomboid hardcore (HC) server on VPS</strong> - 
+                    > Ran for 8 months with over 99% uptime - inclusive of scheduled maintenance  
+                    > Custom systemd service to ensure reliability for my HC server  
+                    > Utilized built-in Linux terminal multiplexer (screen) to run and maintain access to the terminal for my HC server  
+                    > Used "Creative Engineering" and "Minimum Viable Hack" principles to create a novel respawn system using bash  
+                    > Setup HashiCorp Vault for secrets management to avoid storing keys in .env files  
+                    > Setup PostgreSQL database for tracking player respawn costs  
+                </li>
+                <li>
+                    <strong>Setup and created a Zomboid server for another community</strong> - 
+                    > Used open-source framework  
+                    > Web panel for simplified administration by non-technical admins using a tool called web-lgsm  
+                    > Simplified mod management through a tool I created using Google Sheets  
+                    > Included changelog so that any issues caused were able to be traced back to changes made and reverted easily  
+                    > Used bash scripting, API integration, and modification of the web panel to add a "sync" feature  
+                    > Scripted VPS provisioning to reduce migration overhead AKA prepped for vendor issues or network failures  
+                </li>
+                <li>
+                    <strong>Built a resume generator that runs locally in the browser</strong> - 
+                    > Used pdfkit to generate resumes as PDFs directly from input files containing skills, experience, and other sections  
+                    > Created a demo website where users could enter details live and generate a formatted PDF resume  
+                    > The long-term vision was to remove the toil of making tailored resumes by creating a system where:  
+                    >> You maintain a profile with everything you’ve done, every skill you have, and every experience that might be worth including  
+                    >> You paste a job advert in, and AI context-matches your skills/experience to the requirements  
+                    >> The system drafts a resume using your own words and timelines and suggests edits for ATS relevance  
+                    > The "genius" of it? The AI isn't writing the resume—it’s just mapping what the user already knows to what’s being asked for, keeping the human element intact  
+                    > Didn't fully complete it, but the concept was **simple, effective, and powerful**  
+                    > Generated resumes generally passing online ATS tests I could find  
+                </li>
+                <li>
+                    <strong>Created simple Lua mods for Project Zomboid</strong> - 
+                    > Mods to enhance gameplay experience on my HC server  
+                    > Another to utilize one dev’s framework to call functions from another dev’s gameplay mod allowing Twitch chat integration, with permission from both  
+                    > Created a placebo mod that doesn't do anything to demonstrate more clearly to people what you can do with the vanilla game  
+                    > Currently has +3000 subscribed users and is in +600 collections - this was more of a marketing stunt than anything else but it was really fun  
+                </li>
+                <li>
+                    <strong>Created a simple Python bot using the last.fm API</strong> - 
+                    > Displays my currently played song on stream in real-time  
+                </li>
             </ul>
         </section>
+        
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <h2>Systems & Automation</h2> 
+            <ul>
+                <li>Windows Server administration (comfortable but mostly homelab experience)</li>
+                <li>Linux system administration (confident in CLI, systemd, and automation, but not a guru)</li>
+                <li>Systemd service creation (made custom services, but wouldn’t call myself an expert)</li>
+                <li>Bash scripting (written a bunch, sometimes hacky, but gets the job done)</li>
+                <li>Terminal multiplexing (screen, tmux) (basic usage, nothing fancy)</li>
+                <li>Process automation (used scripting to remove toil, but no full DevOps pipeline experience)</li>
+            </ul>
+
+            <h2>Databases & Security</h2> 
+            <ul>
+                <li>PostgreSQL database administration (set up a DB, wrote queries, but not DBA-level)</li>
+                <li>Database design for game servers (made a functional one, wouldn’t call myself a data architect)</li>
+                <li>HashiCorp Vault for secrets management (set it up, used it, still learning best practices)</li>
+                <li>Secure credential storage (avoiding plaintext passwords = good, deep security knowledge = improving)</li>
+            </ul>
+
+            <h2>Game Server Hosting & Modding</h2> 
+            <ul>
+                <li>VPS provisioning (scripted setups, prepared for vendor issues, but not cloud-native level)</li>
+                <li>Game server hosting (Project Zomboid) (8-month uptime, built systems around it, solid at this)</li>
+                <li>Multiplayer server administration (dealt with crashes, configs, updates, and community issues)</li>
+                <li>Mod management for game servers (automated some of it, made tools to help others)</li>
+                <li>Web administration panels (Web-LGSM) (used and modified it, didn’t build from scratch)</li>
+                <li>Lua scripting (modded some things, but not a game developer)</li>
+                <li>Game modding (Project Zomboid) (experimented, made things work together, no deep engine work)</li>
+                <li>Twitch integration for game servers (hacked together functionality with APIs & scripts)</li>
+            </ul>
+
+            <h2>Scripting, APIs & Dev Work</h2> 
+            <ul>
+                <li>Python scripting (written functional scripts, not a software engineer)</li>
+                <li>Last.fm API usage (used it to display music on stream, but not an API guru)</li>
+                <li>Real-time data display on stream (fun project, not full-fledged production system work)</li>
+                <li>Resume generation automation (built a working prototype, the AI piece is a WIP)</li>
+                <li>PDF generation with PDFKit (functional, learned as I went, not a print formatting expert)</li>
+                <li>Frontend web development (basic stuff, made my own tools, not a frontend dev)</li>
+                <li>AI-assisted content matching (explored, conceptually sound, needs more testing)</li>
+                <li>Context-aware automation (used it in small projects, but not at scale)</li>
+                <li>Applicant Tracking System (ATS) optimization (figured out what works, but not a recruiter)</li>
+            </ul>
+
+            <h2>Networking, Troubleshooting & IT Glue Work</h2> 
+            <ul>
+                <li>Network troubleshooting (I break it, I fix it, but not a network engineer)</li>
+                <li>DNS troubleshooting & familiarity (understand DNS records, propagation, and resolution issues)</li>
+                <li>Configuration management (basic automation, no full Ansible/Puppet experience)</li>
+                <li>Software deployment (done it in corp IT, but not a packaging expert)</li>
+                <li>IT documentation & knowledge sharing (written a lot, trying to make it not boring)</li>
+                <li>IT security fundamentals (know the basics, always learning more)</li>
+                <li>Debugging & troubleshooting scripts (trial and error, but it works in the end)</li>
+                <li>Reverse-engineering existing mods (figured things out, but didn’t decompile the universe)</li>
+                <li>Linux package management (apt, yum, nothing exotic)</li>
+                <li>Open-source tool adaptation (took existing things and bent them to my will)</li>
+                <li>Creative problem-solving (definitely a strength, especially for janky but effective fixes)</li>
+                <li>Minimum Viable Hack methodology (I will make it work, even if it's bodgy)</li>
+                <li>IT "glue work" (connecting disparate systems) (strong at this, making random things talk to each other)</li>
+                <li>Self-hosting applications (got things running, dealt with breakage, learned from it)</li>
+                <li>Git for personal projects (comfortable but not a hardcore version control nerd)</li>
+                <li>Process scripting & automation (solving annoyances with scripts, not enterprise-grade automation)</li>
+                <li>Markdown & lightweight documentation (write things in Markdown all the time, great for docs)</li>
+            </ul>
+        </section>
+
+
     </div>
 
     <footer>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
+        <p>&copy; 2025 Robert Kalnins. All rights reserved.</p>
     </footer>
 
 </body>
