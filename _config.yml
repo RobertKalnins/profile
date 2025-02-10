@@ -1,6 +1,7 @@
 title: "Robert Kalnins"
 description: "Tech, Streaming, and Everything Else"
 theme: minima
+timezone: Australia/Melbourne
 exclude:
   - Gemfile
   - Gemfile.lock
