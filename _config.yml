@@ -1,3 +1,6 @@
 title: "Robert Kalnins"
 description: "Tech, Streaming, and Everything Else"
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock

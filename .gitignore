@@ -1,0 +1,29 @@
+# Logs and system files
+*.log
+*.tmp
+*.pid
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+.bundle/
+vendor/
+
+# Jekyll build output
+_site/
+.sass-cache/
+
+# Gem dependencies
+Gemfile.lock
+
+# VS Code settings
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Temporary files
+*.swp
