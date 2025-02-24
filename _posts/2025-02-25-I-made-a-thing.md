@@ -10,7 +10,7 @@ song: "Back It Up - Caro Emerald"
 # I made a demo!
 
 Started a little over 3 hours ago. My friend was showing me a proto-prototype for a game idea they're toying with.
-I thought the process for making a collision mesh seemed kind of manual so asked I downloaded godot and got ChatGPT to hold my hand through the process and it all kicked off from there.
+I thought the process for making a collision mesh seemed kind of manual so I downloaded godot and got ChatGPT to hold my hand through the process and it all kicked off from there.
 
 
 You can read the conversation here to follow along with my train of thought.
