@@ -26,6 +26,6 @@ https://pastebin.com/49JE1V7J
 
 ## The demo:
 Arrow keys to move. Spacebar to kick
-[🎮 Play AngryBox](../game/angrybox.html)
+[🎮 Play AngryBox](/game/angrybox.html)
 
 <iframe src="/game/angrybox.html" width="960" height="600" style="border: none;"></iframe>
