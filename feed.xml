@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-06-18T21:26:06+10:00</updated><id>/feed.xml</id><title type="html">Robert Kalnins</title><subtitle>Tech, Streaming, and Everything Else</subtitle><entry><title type="html">Number 6 - Writing Is Thinking</title><link href="/blogging/2025/06/18/writing-is-thinking.html" rel="alternate" type="text/html" title="Number 6 - Writing Is Thinking" /><published>2025-06-18T20:07:46+10:00</published><updated>2025-06-18T20:07:46+10:00</updated><id>/blogging/2025/06/18/writing-is-thinking</id><content type="html" xml:base="/blogging/2025/06/18/writing-is-thinking.html"><![CDATA[<h1 id="more-chatting-with-ai-and-getting-back-to-blogging">More chatting with AI and getting back to blogging</h1>
+
+<p>I saw this post on reddit: <a href="https://www.reddit.com/r/ChatGPT/comments/1ldy7zs/i_asked_chatgpt_the_top_ten_things_humanity/">I asked ChatGPT the top ten things humanity should know</a> and clicked for the interesting concept.</p>
+
+<p>People posting the results of their musings with ChatGPT and other LLMs is always interesting to me at a meta level.</p>
+
+<p>I wonder if they know that their personality and neuroses come through in the AI responses they share - because it hints at the conversations they’ve had in the past. It’s like peeking into someone’s internal monologue.</p>
+
+<p>So anyway I scrolled past the paranoid doompost to the comments digging for treasure and I found <a href="https://www.reddit.com/r/ChatGPT/comments/1ldy7zs/comment/mycctn1/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button">this comment thread</a> and it got me wondering what I’d get if I asked something a bit more productive.</p>
+
+<p><br />
+<br />
+<br /></p>
+
+<h2 id="prompt-what-are-the-top-10-things-i-should-know"><em>Prompt: What are the top 10 things I should know?</em></h2>
+
+<p><br /></p>
+
+<h1 id="chatgpt-said">🤖💬<strong>ChatGPT said:</strong></h1>
+<p>Here are 10 high-leverage things worth knowing — across life, tech, and systems thinking — chosen to be practical, broadly applicable, and deeply useful:</p>
+
+<h1 id="1-compound-interest-applies-to-everything">1. Compound Interest Applies to Everything</h1>
+<p>Not just money — habits, skills, relationships, health, knowledge. Tiny consistent effort → massive results over time.</p>
+
+<h1 id="2-youre-running-on-a-predictive-brain">2. You’re Running on a Predictive Brain</h1>
+<p>Your brain guesses what will happen next and fills in gaps — this drives perception, emotion, and most cognitive bias. Learn to doubt your first reaction.</p>
+
+<h1 id="3-mental-energy-is-a-scarce-resource">3. Mental Energy Is a Scarce Resource</h1>
+<p>Make fewer decisions, reduce friction, and automate where you can (e.g. routines, tools, checklists). Save focus for high-leverage moves.</p>
+
+<h1 id="4-all-systems-are-incentive-systems">4. All Systems Are Incentive Systems</h1>
+<p>Companies, governments, software, even friendships — follow the incentives to understand behavior. If it doesn’t make sense, you’re missing a motivator.</p>
+
+<h1 id="5-the-world-runs-on-apis-and-protocols">5. The World Runs on APIs and Protocols</h1>
+<p>Understanding interfaces — in tech (APIs), in people (social scripts), in systems (contracts) — gives you leverage to plug into and manipulate structures.</p>
+
+<h1 id="6-writing-is-thinking">6. Writing Is Thinking</h1>
+<p>Journaling, explaining, or note-taking helps clarify your own mind. If it’s fuzzy on the page, it’s fuzzy in your head.</p>
+
+<h1 id="7-attention-is-the-real-currency">7. Attention Is the Real Currency</h1>
+<p>What you focus on shapes your reality and your outcomes. Guard it. Filter ruthlessly. This includes news, social feeds, even friend groups.</p>
+
+<h1 id="8-people-dont-care-what-you-know-until-they-know-you-care">8. People Don’t Care What You Know Until They Know You Care</h1>
+<p>Emotional intelligence &gt; pure intellect in most human systems. Learn to read people, defuse tension, and build trust — especially in high-stakes settings.</p>
+
+<h1 id="9-reality-is-laggy">9. Reality Is Laggy</h1>
+<p>Inputs don’t show immediate results. Systems have inertia. Keep acting even when results aren’t visible yet — this applies to fitness, learning, projects, and culture change.</p>
+
+<h1 id="10-be-directionally-correct-then-iterate">10. Be Directionally Correct, Then Iterate</h1>
+<p>Perfect plans are a trap. Start with a strong bias for action. Course-correct faster than others. Execution speed compounds.</p>
+
+<p>If you want a version of this tuned for a specific context (tech career, relationships, freelance life, creative work, etc.), just say the word.</p>
+<h1>/🤖</h1>
+
+<p><br /></p>
+
+<h3 id="so-what-does-this-say-about-me"><strong>So what does this say about me?</strong></h3>
+<p>I don’t know. A lot of it touches on concepts I’ve typed at length with ChatGPT in my own personal journey, but I don’t know what this prompt would give someone else. Point 1 and 6 together really inspired me to get back to blogging. So I’m going to set a goal for a post a day as long as I can.</p>
+
+<p>Even if it’s a “no post today” post.</p>
+
+<p>To that effort - I’ve tried to minimize my friction - so this blog is now written using the <a href="https://frontmatter.codes/">Front Matter CMS extension for VS Code</a> by <a href="https://www.eliostruyf.com/">Elio Struyf</a>. I quite like it so far.</p>
+
+<p>But anyway, back to the question - I don’t know how much of it was ChatGPT’s own RK spec vs a more generic response.
+<br /></p>
+
+<p>So I asked again in incognito on the untested assumption that it isn’t also fingerprinting and remembering me another way.</p>
+
+<p><br /></p>
+
+<p>Here’s the result:</p>
+
+<h2 id="prompt-incognito-what-are-the-top-10-things-i-should-know"><em>Prompt (Incognito): What are the top 10 things I should know?</em></h2>
+
+<p><br /></p>
+
+<h1 id="chatgpt-said-1">🤖💬<strong>ChatGPT said:</strong></h1>
+<p>That’s a big question—and a great one. The “top 10 things you should know” can depend a lot on your interests, goals, and where you are in life. But here’s a curated list of 10 universally powerful things that are worth knowing, combining practical, emotional, and philosophical wisdom:</p>
+
+<h1 id="-1-how-to-think-not-what-to-think">🧠 1. How to Think, Not What to Think</h1>
+<p>Critical thinking is more valuable than memorizing facts. Learn to question assumptions, evaluate evidence, and detect bias—in yourself and others.</p>
+
+<h1 id="-2-time-is-your-most-valuable-resource">⏳ 2. Time Is Your Most Valuable Resource</h1>
+<p>You can always make more money, but you can’t make more time. Guard your time like it’s gold. Spend it wisely on people and projects that matter.</p>
+
+<h1 id="-3-clear-communication-changes-everything">💬 3. Clear Communication Changes Everything</h1>
+<p>Being able to express ideas clearly—both in writing and speech—opens doors in work, relationships, and life. Miscommunication causes most conflict.</p>
+
+<h1 id="-4-mental-and-emotional-health-drive-everything">💡 4. Mental and Emotional Health Drive Everything</h1>
+<p>Mental well-being isn’t a luxury. Learn about anxiety, depression, habits, mindfulness, and emotional regulation. Your inner world shapes your outer results.</p>
+
+<h1 id="-5-how-money-works">💰 5. How Money Works</h1>
+<p>Understand the basics of personal finance: budgeting, investing, compound interest, credit, and financial independence. Money is a tool—master it.</p>
+
+<h1 id="-6-the-power-of-systems-not-willpower">🔧 6. The Power of Systems, Not Willpower</h1>
+<p>Relying on motivation alone fails. Build systems and habits that automate good choices. Consistency beats intensity over time.</p>
+
+<h1 id="-7-you-are-heavily-influenced-by-your-environment">🧬 7. You Are Heavily Influenced by Your Environment</h1>
+<p>Your friends, digital inputs, and physical space shape your behavior more than you realize. Surround yourself with what reflects who you want to become.</p>
+
+<h1 id="-8-the-world-is-vast-and-complex">🌍 8. The World Is Vast and Complex</h1>
+<p>Travel (if possible), read widely, and expose yourself to different cultures, viewpoints, and histories. Most people live in echo chambers—escape yours.</p>
+
+<h1 id="-9-failure-is-the-tuition-for-success">📉 9. Failure Is the Tuition for Success</h1>
+<p>Every successful person has failed—often publicly, painfully, and repeatedly. Don’t fear failure. Learn fast, fail small, and iterate often.</p>
+
+<h1 id="️-10-people-remember-how-you-made-them-feel">❤️ 10. People Remember How You Made Them Feel</h1>
+<p>Kindness, humility, and emotional intelligence will take you further than talent alone. Invest in empathy; it improves every relationship.</p>
+
+<p>Would you like a version of this list tailored to a specific context—like your career, a transition you’re facing, or a goal you’re working on?</p>
+<h1 id="-1">/🤖</h1>
+
+<p>Interesting contrast.</p>
+
+<p><a href="https://chatgpt.com/share/68529bbc-2954-8012-8bbb-f19dab8174b4">bonus round</a>
+ChatGPT was glazing a bit too hard for my tastes, but it was an interesting roadmap.
+Also fun to see the steps that it suggested which I’ve done in my past and never discussed with it.</p>]]></content><author><name></name></author><category term="blogging" /><category term="AI" /><category term="Chat GPT" /><category term="Prompts" /><summary type="html"><![CDATA[More chatting with AI and getting back to blogging]]></summary></entry><entry><title type="html">I made a thing!</title><link href="/adhd/dev/games/2025/02/25/I-made-a-thing.html" rel="alternate" type="text/html" title="I made a thing!" /><published>2025-02-25T00:00:00+10:00</published><updated>2025-02-25T00:00:00+10:00</updated><id>/adhd/dev/games/2025/02/25/I-made-a-thing</id><content type="html" xml:base="/adhd/dev/games/2025/02/25/I-made-a-thing.html"><![CDATA[<h1 id="i-made-a-demo">I made a demo!</h1>
+
+<p>Started a little over 3 hours ago. My friend was showing me a proto-prototype for a game idea they’re toying with.
+I thought the process for making a collision mesh seemed kind of manual so I downloaded godot and got ChatGPT to hold my hand through the process and it all kicked off from there.</p>
+
+<p>You can read the conversation here to follow along with my train of thought.</p>
+
+<p>https://chatgpt.com/share/67bcda89-5248-8012-b195-b2a566b01076
+https://chatgpt.com/share/67bcda92-53c8-8012-870e-961bc45d7c2d</p>
+
+<p>ChatGPT wouldn’t let me upload the convo with screenshots so it’s included here as well:
+https://pastebin.com/49JE1V7J</p>
+
+<p><br />
+<br /></p>
+
+<h2 id="the-demo">The demo:</h2>
+<p>Arrow keys to move. Spacebar to kick
+<a href="/game/angrybox.html">🎮 Play AngryBox</a></p>
+
+<iframe src="/game/angrybox.html" width="960" height="600" style="border: none;"></iframe>]]></content><author><name></name></author><category term="adhd" /><category term="dev" /><category term="games" /><summary type="html"><![CDATA[I made a demo!]]></summary></entry><entry><title type="html">I slept, but at what cost</title><link href="/adhd/sleep/mental-health/work/burnout/2025/02/14/I-slept.html" rel="alternate" type="text/html" title="I slept, but at what cost" /><published>2025-02-14T00:00:00+10:00</published><updated>2025-02-14T00:00:00+10:00</updated><id>/adhd/sleep/mental-health/work/burnout/2025/02/14/I-slept</id><content type="html" xml:base="/adhd/sleep/mental-health/work/burnout/2025/02/14/I-slept.html"><![CDATA[<h1 id="the-cost-of-sleep-deprivation">The cost of sleep deprivation</h1>
+
+<p>It always catches up to you. Thursday sucked. It doesn’t help that they’re doing industrial level retrofitting on the floor above our office - jackhammering concrete walls, using concrete saws to add windows. It’s LOUD. What a nightmare.</p>
+
+<p>I had a couple of beers as soon as I got home and then went to sleep really early. Woke up around 7am today feeling much better. Lose an entire day of free time, work life balance in shambles. Productivity at work goes up 👍😐.</p>
+
+<p>But the alternative when you’re awake late at night and have work the next day isn’t living. It’s the twighlight zone. It was managable at two days in the office. Now I’m at three and I’m coping with booze and back on energy drinks. It’s not horrible chemicals and terrible habits - I’m just using a solvent as a solution to put down that which has been chemically resurrected before I’m finally ground to dust like the walls they’re knocking down.</p>
+
+<p>I figured out that drinking if I’m not already fairly exhausted doesn’t work.
+To force myself to sleep last Tuesday I gave it a good effort but I just ended up lying in bed drunk. It’s not a perfect solution, just one piece of the puzzle.</p>
+
+<p>Current plan:</p>
+<ul>
+  <li>Keep trying to recognize my bodies ebbs and flows - catch a whiff of sleep and drop everything for a nap or a sleep. The more rest I can get the better.</li>
+  <li>No self hatred - radical self acceptance. Live in the moment.</li>
+  <li>It doesn’t seem to make a difference if I get sloshed, or just have a couple of beers, so be strategic.</li>
+  <li>Keep the finger on my pulse. The goal is to come back to the world of the living, and I need to be aware of myself to pull it off.</li>
+</ul>
+
+<p><br /></p>
+
+<h1 id="work">Work</h1>
+<p>I volunteered to be the guy for one of the services the previous guy butchered with his ad-hoc implementation-from-the-hip.</p>
+
+<p>I really wanna get hands on down and dirty with the tech, spend a few weekends fixing up the egregious mess made by my previous colleague, and leave this thing configured properly. Then tell everyone “Now it’s servicable - but this is garbage and let’s plan a move to –industry standard–” but my boss wants me to approach it by working with their sales team to up our commitment, and then their engineers to get it up to scratch.</p>
+
+<p>He’s got a point - we have money but not enough time. For this - getting their engineers in and saying “here’s where it’s fucked, here’s the struggle, here’s what we want to achieve” then working hand in hand with them on the implementation will be a better outcome. And it’s a force multiplier - there’s only so much of me to go around.</p>
+
+<p>If I can ensure I don’t get tied up in meetings over this and get a better outcome from their manpower than just going gung-ho myself, then I can also apply that to a couple of the other areas I’m working on that have been neglected.</p>
+
+<p>Here’s the plan:</p>
+
+<h2 id="agendas">Agendas</h2>
+<ul>
+  <li>Every meeting needs two things - Agenda before, action items after.
+If you want the benefit of my time - you’re giving me the courtesy of knowing what we’re going to spend that time on. And I’ll hold us both to the outcomes we decide upon. Pointless meetings makes pointless people.</li>
+</ul>
+
+<h2 id="documentation">Documentation</h2>
+<ul>
+  <li>Document, document, document. When I need to justify why we should keep going with one vendor or should go with one of my preferred alternatives, every broken or kept promise from the vendor is one more bullet in my chamber.</li>
+</ul>
+
+<h2 id="vendors">Vendors</h2>
+<p>I’ve got experience holding vendors to account. But what I don’t have is experience translating my experiences with those vendors into convincing arguments for or against them. This is something I’ll need to work on but I’m pretty confident I can go with the flow.</p>
+
+<h1 id="summmary">Summmary</h1>
+
+<p>Things are rough. But there’s good things happening. Somewhere.</p>]]></content><author><name></name></author><category term="adhd" /><category term="sleep" /><category term="mental-health" /><category term="work" /><category term="burnout" /><summary type="html"><![CDATA[The cost of sleep deprivation]]></summary></entry><entry><title type="html">I’m not sleepy</title><link href="/adhd/sleep/mental-health/work/burnout/2025/02/12/Im-not-sleepy.html" rel="alternate" type="text/html" title="I’m not sleepy" /><published>2025-02-12T00:00:00+10:00</published><updated>2025-02-12T00:00:00+10:00</updated><id>/adhd/sleep/mental-health/work/burnout/2025/02/12/Im-not-sleepy</id><content type="html" xml:base="/adhd/sleep/mental-health/work/burnout/2025/02/12/Im-not-sleepy.html"><![CDATA[<h1 id="tired-of-not-being-tired">Tired of not being tired</h1>
+
+<p>It’s 1:38am on a worknight. I finished work on time today but didn’t have the energy to stream.</p>
+
+<p>At 9pm I went down to try sleep, tortured myself by laying in the dark for a couple of hours and came back up round 11pm feeling energized and not tired.</p>
+
+<p>Thought about doing a short stream or personal project, but that carries the risk of getting lost in the moment then suddenly it’ll be 1am, my brain racing, and I have to fight to pull myself away…</p>
+
+<p>Besides, getting lost in the moment is the <strong><em>joy</em></strong> in life.</p>
+
+<p><br /></p>
+
+<h1 id="capacity">Capacity</h1>
+<p>Our team at work is down to 3(2 with one on leave) people from 5 at the same time last year.
+One of the guys who left butchered the environments he setup, seems like he used them to learn but never cleaned them up, and you could drive a truck through the gaps he left in his documentation. <strong>Don’t be that guy</strong>.</p>
+
+<p>Eh I guess it’s easy to say - I haven’t lived his life. Maybe I’m also just a little grouchy. I spent a couple years in the MSP game and thought I was moving up in complexity when I started this job, but wasn’t prepared to handle someone who didn’t know what they were doing and still managed to gatekeep acccess.</p>
+
+<blockquote>
+  <p>Problem happens</p>
+
+  <p>“Oh man this is super complicated. Maybe it’s the network team or security?”</p>
+
+  <p>“Why do you need to look at logs?”</p>
+</blockquote>
+
+<p>🤦</p>
+
+<p>Turned out a bunch of stuff was tied to his account as well, instead of the “admin” groups he made - so that’s been fun.</p>
+
+<p>I want to just nerd out at 9pm and fix it all up - but there was an org shuffle and now I’m under an old school manager, and right now I’m fighting to go back to three days WFH.
+They’ve shrunk the team, lost the resource I’m referring to above, and now I’m in an intense battle for my life with someone with no understanding of the impact of their choices on my life.</p>
+
+<p><br /></p>
+
+<h1 id="mental-health">Mental Health</h1>
+<p>This ongoing fight is exhausting. I have to justify my needs over and over, jump through hoops, for the <em>chance</em> at getting what I need. There’s not even a guarantee that I’ll get the accomodation. All so that I can make the bloody place better.</p>
+
+<p><br /></p>
+
+<p>It’s really hard to have to fight so hard for your needs and still give your all, but when giving your full self is your natural state, it kills you inside to do anything else. Catch-22</p>
+
+<p><br /></p>
+
+<p>Writing helps though.</p>]]></content><author><name></name></author><category term="adhd" /><category term="sleep" /><category term="mental-health" /><category term="work" /><category term="burnout" /><summary type="html"><![CDATA[Tired of not being tired]]></summary></entry><entry><title type="html">My First Blog Post</title><link href="/tech/2025/02/11/my-first-post.html" rel="alternate" type="text/html" title="My First Blog Post" /><published>2025-02-11T00:00:00+10:00</published><updated>2025-02-11T00:00:00+10:00</updated><id>/tech/2025/02/11/my-first-post</id><content type="html" xml:base="/tech/2025/02/11/my-first-post.html"><![CDATA[<p>This is my first post on my blog</p>]]></content><author><name></name></author><category term="tech" /><summary type="html"><![CDATA[This is my first post on my blog]]></summary></entry><entry><title type="html">My Second Blog Post</title><link href="/tech/2025/02/10/second-post-testing.html" rel="alternate" type="text/html" title="My Second Blog Post" /><published>2025-02-10T00:00:00+10:00</published><updated>2025-02-10T00:00:00+10:00</updated><id>/tech/2025/02/10/second-post-testing</id><content type="html" xml:base="/tech/2025/02/10/second-post-testing.html"><![CDATA[<p>This is my second post on my blog. My first post shows in my local server but not my second.
+Changing the date a day earlier to see if it’s a timezone issue.</p>]]></content><author><name></name></author><category term="tech" /><summary type="html"><![CDATA[This is my second post on my blog. My first post shows in my local server but not my second. Changing the date a day earlier to see if it’s a timezone issue.]]></summary></entry></feed>
