@@ -5,3 +5,4 @@ timezone: Australia/Melbourne
 exclude:
   - Gemfile
   - Gemfile.lock
+permalink: /:year/:month/:day/:title.html
