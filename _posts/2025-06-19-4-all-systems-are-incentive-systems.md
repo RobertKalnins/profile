@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 4. All Systems Are Incentive Systems
-description: Explore how every system operates on incentives and learn to leverage them for better outcomes in your organization.
-date: 2025-06-19T09:54:21.045Z
+description: ""
+date: 2025-06-19T10:09:04.187Z
 preview: ""
 tags:
     - Prompts
